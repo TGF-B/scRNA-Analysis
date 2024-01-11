@@ -1,4 +1,4 @@
-# scRNA-Analysis
+# scRNA-Analysis,from FastQ to SingleR
 
 It`s not easy to run Seurat after version 5 released, since many packages such as doubletFinder and matrix have updated their requiremnets.
 
