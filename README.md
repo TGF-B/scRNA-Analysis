@@ -1,2 +1,5 @@
 # scRNA-Analysis
-for beginners
+ 
+Most requirements are listed in the annotations.
+ 
+A detailed tutorial would be coming soon.
