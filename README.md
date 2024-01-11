@@ -9,7 +9,7 @@ You could easily adopt loading/filter/de doublets/de batch effect/SingleR by cal
 Most requirements are listed in the annotations.
 
 
-###General Rule:###
+***General Rule:***
 
 
 Please run the **cellranger.sh** to decompress the fastq once you have collected necessary files ( which are barcodes.tsv, features.tsv, matrix.mtx.) and then apply **pipeline S4** on them.
