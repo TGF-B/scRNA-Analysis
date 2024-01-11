@@ -11,6 +11,7 @@ Most requirements are listed in the annotations.
 
 Please first run the **cellranger.sh** to decompress the fastq , once you have collected necessary files ( which are barcodes.tsv, features.tsv, matrix.mtx.) , apply **pipeline S4** on them.
 
+Jupyter is basically for entertaining(not really
 
 ***Updating:***
 
