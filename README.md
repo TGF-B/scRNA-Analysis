@@ -16,4 +16,5 @@ Jupyter is basically for entertaining(not really
 ***Updating:***
 
 A detailed tutorial with manually annotations method would be coming soon.
+
 A full version updated:from FASTQ to sub-celltype analysis.(04.10.2024) 
