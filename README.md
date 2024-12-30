@@ -24,7 +24,10 @@ A full version updated:from FASTQ to sub-celltype analysis.(04.10.2024)
 Figure 1. scRNA-seq of Cd11b+ and Cd11c+ or Cd11b+/Cd11c+ cells revealed that APC cells increased after CDSA.
 ![image](https://github.com/TGF-B/scRNA-Analysis/assets/68436923/67b7439a-7af4-4bc8-8bb6-085ca4f69324)
 
-Figure 2. cDC showed enhanced antigen presenting ability to Cd4+ T cells but diminished ability to Cd8+ T cells.
-![image](https://github.com/TGF-B/scRNA-Analysis/assets/68436923/a9a57c61-4ae7-433c-9eb9-914efb325160)
-
 Figure 3: pDC(Runx2+) showed to be homing and recirculated subtype pDC.
+
+***Updating:***
+A python version from fastq to scVelo was pushed.(12.30.2024)
+![image](
+FIgure 3. RNA volocity prediction based on spliced/unspliced genes.
+
