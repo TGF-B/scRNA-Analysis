@@ -28,6 +28,8 @@ Figure 3: pDC(Runx2+) showed to be homing and recirculated subtype pDC.
 
 ***Updating:***
 A python version from fastq to scVelo was pushed.(12.30.2024)
+With automation by GPT and powerful third-party proceeding, single cell analysis from fastq to cell annotation was much easier.
+The average time cost was reduced from 2 months to 1 day...
 ![image](https://github.com/TGF-B/scRNA-Analysis/blob/main/RNA%20volocity.png)
 FIgure 3. RNA volocity prediction based on spliced/unspliced genes.
 
